@@ -10,17 +10,14 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "amandanitta", "url": "http://github.com/amandanitta" },
-      { "network": "linkedin", "username": "amandanitta", "url": "http://linkedin.com/in/amandanitta" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "amandanitta", "url": "http://linkedin.com/in/amandanitta" }
     ]
   },
   "interests": [
     { "name": "Data Science" },
     { "name": "Cybersecurity" },
     { "name": "Data Visualization" },
-    { "name": "Software Engineering" },
-    { "name": "Giving Back to the community" }
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
