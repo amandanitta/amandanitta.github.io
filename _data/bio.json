@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Amanda Nitta",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/amandanitta.png",
+    "email": "nittaak@hawaii.edu",
+    "phone": "808-393-0843",
+    "website": "https://amandanitta.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "amandanitta", "url": "http://github.com/amandanitta" },
+      { "network": "linkedin", "username": "amandanitta", "url": "http://linkedin.com/in/amandanitta" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science" },
+    { "name": "Cybersecurity" },
+    { "name": "Data Visualization" },
+    { "name": "Software Engineering" },
+    { "name": "Giving Back to the community" }
   ],
   "skills": [
     {
