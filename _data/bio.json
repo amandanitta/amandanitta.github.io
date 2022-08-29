@@ -21,17 +21,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
@@ -41,20 +41,20 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa Horizon's Journal",
+      "position": "Student Editorial Board",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Reviewed pieces ",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
-    },
+    }
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "University of Hawaii at Manoa",
+      "position": "Learning Assistant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
@@ -67,12 +67,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Hawaii United Okinawa Association",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "position": "WebApp developer",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Created pages for the Okinawan Festival",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
@@ -94,13 +94,13 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Brandies University Book Award",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
+      "title": "Second Degree Black Belt",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
