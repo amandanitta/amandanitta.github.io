@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/IreiNoHi2021.png
+title: "Irei No Hi - Through the Eyes of the Younger Generation"
 date: 2014
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game I developed for ICS 313."
+summary: "Irei No Hi is day in Okinawa that pays tribute to the civilian lives lost during the Battle of Okinawa. In 2021, I cochaired the production of the Hawaii United Okinawa Association's tribute."
 ---
 
 <img class="img-fluid" src="../img/IreiNoHi2021.png">
