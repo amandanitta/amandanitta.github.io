@@ -107,10 +107,11 @@
     }
   ],
   
-  "publications": [ { "name" : "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents",
-                     "publisher": "Horizon's Undergraduate Journal at the University of Hawaii", 
-                     "release date": "2021-12-04",
-                     "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content", 
+  "publications": [ 
+    { "name" : "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents",
+                   "publisher": "Horizon's Undergraduate Journal at the University of Hawaii", 
+                    "release date": "2021-12-04",
+                    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content", 
                      "summary": "TBA"
                     
                     }], 
