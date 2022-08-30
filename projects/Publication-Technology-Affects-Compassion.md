@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image:
 title: "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents"
 date: 2021
 published: true
 labels:
-  - Publicatino
+  - Publication
 summary: "Technology is becoming increasingly prevalent in society, where especially in recent times,
 the majority of tasks, meetings, and schooling are essentially carried out through online
 formats. This article aims to address the negative and positive effects that technology
