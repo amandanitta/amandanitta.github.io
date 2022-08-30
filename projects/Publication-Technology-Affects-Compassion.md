@@ -2,58 +2,28 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents"
+date: 2021
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game I developed for ICS 313."
+  - Publicatino
+summary: "Technology is becoming increasingly prevalent in society, where especially in recent times,
+the majority of tasks, meetings, and schooling are essentially carried out through online
+formats. This article aims to address the negative and positive effects that technology
+introduces and how it has become common in our society. The findings were analyzed
+through the analysis of literature. These studies are able to show how technology has
+brought about convenience but also has impacted the development of interpersonal and
+intrapersonal characteristics with particular emphasis on compassion and empathy. The
+studies analyzed were mainly based within the European Union, but can be further
+applied to other societies and the world."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+During my first semester of college, I was assigned to write a Literature Review for my Introduction to Research class (HON 101). For my paper I had chosen to research and write about how Technology Affects Compassion and thus led for my literature to be titled 'An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents.' This piece is more commonly known as 'Technology Affects Compassion: A Literature Review.' By growing up in the Okinawan community it has allowed me to talk and interact with people of different generations and different backgrounds. Therefore, it allowed me to notice the difference in generations and how they behave and exhibit compassion, which could be attributed to the introduction of technology. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+Furthermore, upon completion of this class I was encouraged to publish my piece in the Horizon’s Undergraduate Journal at the University of Hawaii at Manoa by my Professor Dr. Jayme Scally. This led me to revise my literature review to make it more encompassing of the different perspectives of how technology has affected the development of compassion. Through this process I learned that although I may have an opinion, it is important to bring out both sides of the argument and analyze them equally and effectively to let the reader choose. Also I learned the importance of explaining the context of when the piece was written, since the presence of COVID-19 led for the research of the piece to be relevant since the majority of people were participating, doing things online and continuing to mitigate the spread of the virus. I also learned the importance of readability, for the audience to be able to read the material no matter what backgrounds. 
 
-<hr>
+Through this first publication, I was able to learn the importance of the publication process and the process of ensuring that all relevant information behind the topic is covered, to bring more credibility behind the piece. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content
