@@ -1,59 +1,26 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+image: img/Tae-Kwon-Do.jpg
+title: "Tae Kwon Do Journey"
+date: 2011
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game I developed for ICS 313."
+  - Martial Arts
+summary: "I have been fortunate to not only learn Martial Arts but learn how to be a Martial Artist. Martial Arts has helped shape me into who I am today."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Tae-Kwon-Do.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I have been fortunate to be able to train under Grandmaster Hee Il Cho and have attained my second degree black belt. Through this journey, I have not only learned martial arts, but have learned how to be a martial artist. I have been able to learn and start to develop morals that strive to bring a sense of understanding for things greater than myself. I have learned and continue to learn the principles of discipline, modesty, courtesy, integrity, self-control, perseverance, indomitable spirit, respect, and several others stemming from respecting people and the environment. I have been fortunate to be exposed to these principles and they have helped to shape my life, since the day I started Tae Kwon Do. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+During my time in Tae Kwon Do, I had aimed to attend class 6 days a week for an hour of class, and possibly 1-2 hours assisting the younger students. From attending class and assisting in classes, I was able to learn leadership skills and learn how to identify issues, and more importantly learn how to teach to fix them during class. There were times where I had led a class of 60 students in stretching and taught younger students of groups of 20 people their patterns. From this experience, I learned the sense of serving as a role model for other people to follow and learn how to think of routines and possibilities on the fly to continue to make the class moving since when called upon to lead it was never planned. By being in the position of assistant instructor it made me have the courage to call on people to motivate them to try harder and also determine people to demonstrate. 
 
-<hr>
+I also served as a testing judge on testing days where I had a group of students where I would be critiquing their performance and providing feedback on the techniques. Through this experience, I learned how to provide critical feedback and how to examine things in detail. While also realizing based on the amount of time a person dedicates to the skill, it leads to further refinement and precision. I also was able to learn the importance of instructors and role models that since in class we stand in ranking order, this leads for people in the back to follow and make inferences and thus correction needs to be made early to ensure proper understanding. Therefore, from this experience I have been able to learn how to critique, give constructive feedback and also learn how I can improve my teaching to help the students. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+When studying Tae Kwon Do, I had studied under the organization called AIMAA standing for Action International Martial Arts Association. The curriculum of this organization is rooted in not learning how to defend yourself but also learning how to develop into a better person grounded in morals as mentioned earlier and development of memory and understanding. For each testing we were required to be able to answer a set of questions for our belt along with the previous belts, from a distance, from memory. For each belt, there was a paragraph definition to memorize to learn about the hardships the Koreans went through and the significance of the pattern that was being done. Therefore, by my second degree black belt testing I was to memorize around 12 meanings of patterns word for word and several other passages word for word, where if I messed up any word everyone knew. This experience taught me grit and endurance to learn how to memorize every word no matter how much practice it may have taken me.  It taught me the importance of time management and the need for deeper understanding to ensure that everything was memorized perfectly, along with discipline to make myself study despite not wanting to. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+During my testing for my upper belts, I had tested by myself where all the other testers were watching me, and the only people moving and speaking were my head instructor and myself. Through this experience, it taught me how to be fearless in front of a group despite the pressure and taught me how although there was pressure, it was important to maintain my intuition and memory. 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Through Tae Kwon Do, I have been able to learn to remain humble and understand the more holistic approach to things and deciding what would be best not only for myself but for others. My Tae Kwon Do journey has and will continue to make an impact on my life. I continue to aspire into becoming a better martial artist. 
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
