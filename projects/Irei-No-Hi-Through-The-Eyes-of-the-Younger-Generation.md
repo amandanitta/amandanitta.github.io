@@ -8,7 +8,7 @@ published: true
 labels:
   - Okinawan Activities
   - Giving Back to the community
-summary: "Irei No Hi is day in Okinawa that pays tribute to the civilian hardships and lives lost during the Battle of Okinawa. In 2021, I cochaired the production of the Hawaii United Okinawa Association's tribute."
+summary: "Irei No Hi is day in Okinawa that pays tribute to the civilian hardships and lives lost during the Battle of Okinawa. In 2021, I cochaired the production of the Hawaii United Okinawa Association's tribute. This tribute is usually put on by 40 - 50 year olds, however I co-led college aged students in the 2021 tribute for Irei No Hi"
 ---
 
 <img class="img-fluid" src="../img/IreiNoHi2021-Nitta.jpg">
