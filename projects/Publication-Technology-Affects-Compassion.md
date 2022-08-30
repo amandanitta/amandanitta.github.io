@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: img/University-of-Hawaii.jpeg
 title: "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents"
 date: 2021
 published: true
@@ -17,6 +17,7 @@ intrapersonal characteristics with particular emphasis on compassion and empathy
 studies analyzed were mainly based within the European Union, but can be further
 applied to other societies and the world."
 ---
+<img class="img-fluid" src="../img/University-of-Hawaii.jpeg">
 
 During my first semester of college, I was assigned to write a Literature Review for my Introduction to Research class (HON 101). For my paper I had chosen to research and write about how Technology Affects Compassion and thus led for my literature to be titled 'An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents.' This piece is more commonly known as 'Technology Affects Compassion: A Literature Review.' By growing up in the Okinawan community it has allowed me to talk and interact with people of different generations and different backgrounds. Therefore, it allowed me to notice the difference in generations and how they behave and exhibit compassion, which could be attributed to the introduction of technology. 
 
