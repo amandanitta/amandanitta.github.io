@@ -55,7 +55,7 @@
     {
       "company": "University of Hawaii at Manoa",
       "position": "Learning Assistant",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "Teach and help students develop an understanding of Calculus 1 and 2 concets along with the application to real world scenarios. Facilitated assistance through helping in recitation sessions that help to bring a deeper understanding of materials presented in the lecture class along with hosting Office Hours (additional contact hours) using effective communication skills to present information clearly in a succint and easy-to-understand manner.",
@@ -67,14 +67,14 @@
   "volunteer": [
     {
       "organization": "Hawaii United Okinawa Association",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "http://www.okinawanfestival.com/",
       "position": "WebApp developer",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Created pages for the Okinawan Festival",
+      "summary": "The Okinawan Festival is the largest ethnic festival in the state of Hawaii. For the website the tasks were to gathere information from the various commitees so that the public is able to gain insight into what to expect from the festival. Along with helping to design pages to make them the most functional for attendees. The information gathered included parking infromation, admission, schedule of events, program, booths and etc",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Gained insight into how to present information in a readible format for the attendees",
+        "Understanding the broader applications of putting information on the website."
       ]
     },
     {
