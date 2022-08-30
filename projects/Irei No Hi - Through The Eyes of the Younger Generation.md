@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/IreiNoHi2021-Nitta.jpg
+image: img/IreiNoHi2021-Nitta.jpg
 title: "Irei No Hi Through The Eyes of the Younger Generation"
 date: 2021
 published: true
@@ -11,9 +11,9 @@ labels:
 summary: "Irei No Hi is day in Okinawa that pays tribute to the civilian hardships and lives lost during the Battle of Okinawa. In 2021, I cochaired the production of the Hawaii United Okinawa Association's tribute."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/IreiNoHi2021-Nitta.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Irei No Hi is known as Okinawa's Memorial Day that pays tribute to the civilian hardships and lives lost during the Battle of Okinawa in World War II 
 
 To give you a flavor of the game, here is an excerpt from one run:
 
