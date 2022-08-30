@@ -33,4 +33,13 @@ Once everything was completed, I had helped review the video before going live a
 
 During this process, I had ensured that the project was kept on track, and more importantly it taught me the importance of time management, organization and having a calendar of dates set out to ensure that everything was completed so that it could be the best quality that could be produced.
 
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=wAMbctKWp7A" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=wAMbctKWp7A"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+
 </i>jogarces/HUOA-Irei-No-Hi-2021</a>
