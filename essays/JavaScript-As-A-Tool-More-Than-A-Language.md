@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript as a tool more than a language"
+title: "JavaScript As a Tool More Than a Language"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-30
 published: true
