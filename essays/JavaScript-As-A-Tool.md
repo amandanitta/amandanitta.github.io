@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "JavaScript as a tool more than a language"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-30
 published: true
