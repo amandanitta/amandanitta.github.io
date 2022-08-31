@@ -16,6 +16,8 @@ labels:
 
 To code it requires an individual to be able to critically think to solve the problem at hand. Athletic Software Engineering allows for an individual to practice solving problems efficiently and effectively within a time constraint under pressure. Through this practice, it allows for an individual to prepare their mindset to think and critically evaluate the problem to get to a solution. It further helps bring the intuition to where to start problems and break the issues down easily. The concepts of Athletic Software Engineering can be further applied to other branches of computer science to teach individuals how to think critically and efficiently. 
 
+##Athletic Software Engineering##
+
 Through Athletic Software Engineering, JavaScript has allowed me to learn and realize the importance of practicing different aspects and methods to learn how to code effectively. This can be attributed to JavaScript not having variable declarations that are strict and allows for more malleability in the problem solving and leads for there to be less confusion with errors of wrong data types. JavaScript creates a good venue to learn and transcend my computer science knowledge and how to code more efficiently. 
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Think-Efficent.jpeg">
