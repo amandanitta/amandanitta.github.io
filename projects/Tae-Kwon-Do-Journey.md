@@ -24,4 +24,3 @@ During testing for my upper belts, I tested by myself where all the other tester
 
 Through Tae Kwon Do, I have been able to learn to remain humble and understand the more holistic approach to things and deciding what would be best not only for myself but for others. My Tae Kwon Do journey has and will continue to make an impact on my life. I continue to aspire into becoming a better martial artist. 
 
-
