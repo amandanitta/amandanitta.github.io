@@ -6,7 +6,7 @@ title: "Software Engineering Benefits for All Careers"
 date: 2022-08-30
 published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Software-Engineering.jpeg">
