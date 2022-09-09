@@ -33,11 +33,11 @@ By asking smart questions, it demonstrates the individual’s work and effort an
 
 ________________________________________________________________________________________________________
 
-< Use of PUT vs PATCH methods in REST API real life scenarios
+< Use of PUT vs PATCH methods in REST API real life scenarios >
 
- First of all, some definitions:
+ < First of all, some definitions: >
 
- PUT is defined in Section 9.6 RFC 2616:
+ < PUT is defined in Section 9.6 RFC 2616: >
 
  The PUT method requests that the enclosed entity be stored under the supplied Request-URI. If the Request-URI refers to an already existing resource, the enclosed entity SHOULD be considered as a modified version of the one residing on the origin server. If the Request-URI does not point to an existing resource, and that URI is capable of being defined as a new resource by the requesting user agent, the origin server can create the resource with that URI.
 
