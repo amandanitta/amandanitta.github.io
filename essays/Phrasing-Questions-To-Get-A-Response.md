@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Java-Script-Logo.jpeg">
 
-*Java Scipt serves as a tool in developing valuable skills*
+*Smart Questions assist in understandings*
 
 ## What are Smart Questions?
 
