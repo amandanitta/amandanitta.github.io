@@ -29,7 +29,7 @@ While jagon and foregrounding are key foundational elements to include in the in
 
 ## Good Phrasing of Questions
 
-By asking smart questions, it demonstrates the individual’s work and effort and explains their thought process and reasoning. It will elicit a better, more effective and efficient response from people. This demonstration allows for developers/ responders to understand where the confusion may be and help to articulate information that will help an individual understand how to solve the issue or identify a solution for the issue that they are having. This can be seen in the Stack Overflow question titled [“Use PUT vs PATCH methods in REST API real life scenarios.”](https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios) The Question can be seen below: 
+By asking smart questions, it demonstrates the individual’s work and effort and explains their thought process and reasoning. It will elicit a better, more effective and efficient response from people. This demonstration allows for developers/ responders to understand where the confusion may be and help to articulate information that will help an individual understand how to solve the issue or identify a solution for the issue that they are having. This can be seen in the Stack Overflow question titled [“Use PUT vs PATCH methods in REST API real life scenarios.”](https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios) The question can be seen below: 
 
 ________________________________________________________________________________________________________
 ```
