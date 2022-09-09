@@ -25,4 +25,4 @@ Furthermore, upon completion of this class I was encouraged to publish my piece 
 
 Through this first publication, I was able to learn the importance of the publication process and the process of ensuring that all relevant information behind the topic is covered, to bring more credibility behind the piece. 
 
-Direct Link to Publication: https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content
+[Direct Link to Publication](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content)
