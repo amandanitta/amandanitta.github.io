@@ -32,14 +32,14 @@ While jagon and foregrounding are key foundational elements to include in the in
 By asking smart questions, it demonstrates the individual’s work and effort and explains their thought process and reasoning. It will elicit a better, more effective and efficient response from people. This demonstration allows for developers/ responders to understand where the confusion may be and help to articulate information that will help an individual understand how to solve the issue or identify a solution for the issue that they are having. This can be seen in the Stack Overflow question titled [“Use PUT vs PATCH methods in REST API real life scenarios.”](https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios) The Question can be seen below: 
 
 ________________________________________________________________________________________________________
+```
+Use of PUT vs PATCH methods in REST API real life scenarios
 
-<Use of PUT vs PATCH methods in REST API real life scenarios>
+ First of all, some definitions:
 
- <First of all, some definitions:>
+ PUT is defined in Section 9.6 RFC 2616:
 
- <PUT is defined in Section 9.6 RFC 2616:>
-
-<The PUT method requests that the enclosed entity be stored under the supplied Request-URI. If the Request-URI refers to an already existing resource, the enclosed entity SHOULD be considered as a modified version of the one residing on the origin server. If the Request-URI does not point to an existing resource, and that URI is capable of being defined as a new resource by the requesting user agent, the origin server can create the resource with that URI.>
+The PUT method requests that the enclosed entity be stored under the supplied Request-URI. If the Request-URI refers to an already existing resource, the enclosed entity SHOULD be considered as a modified version of the one residing on the origin server. If the Request-URI does not point to an existing resource, and that URI is capable of being defined as a new resource by the requesting user agent, the origin server can create the resource with that URI.>
 
  PATCH is defined in RFC 5789:
 
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 PATCH is a relatively new verb (RFC introduced in March 2010), and it comes to solve the problem of "patching" or modifying a set of fields. Before PATCH was introduced, everybody used PUT to update resources. But after PATCH was introduced, it leaves me confused about what PUT is used for. And this brings me to my second (and the main) question:
 
  What is the real difference between PUT and PATCH? I have read somewhere that PUT might be used to replace entire entity under specific resource, so one should send the full entity (instead of set of attributes as with PATCH). What is the real practical usage for such case? When would you like to replace / overwrite an entity at a specific resource URI and why is such an operation not considered updating / patching the entity? The only practical use case I see for PUT is issuing a PUT on a collection, i.e. /users to replace the entire collection. Issuing PUT on a specific entity makes no sense after PATCH was introduced. Am I wrong? >
-
+```
 ________________________________________________________________________________________________________
 
 The title is able to demonstrate the language and their general specific point of confusion that they are looking for other developers to help determine where the differences are and the advantages and disadvantages. Within the body of the question there are definitions that refer to specific sections of documentation followed by explanations of their logic. Therefore, the foregrounding of this information and logic allows for people to be inclined to respond to the questions in a very effective manner where each question is explained in depth to bring a deeper understanding of the concepts that were confusing. There were multiple responses, notably more than the other stack overflow questions mentioned above, and in comparison can be considered very lengthy to bring out different attributes to the question and help the person asking to reconcile the information. It demonstrates that by showing an individual's thought process and foregrounding information, it allows for people to have motivation to answer the question to bring a deeper understanding of the topic to the individual. 
