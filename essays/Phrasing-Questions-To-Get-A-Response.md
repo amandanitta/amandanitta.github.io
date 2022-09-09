@@ -33,28 +33,28 @@ By asking smart questions, it demonstrates the individual’s work and effort an
 
 ________________________________________________________________________________________________________
 
-> Use of PUT vs PATCH methods in REST API real life scenarios
->
-> First of all, some definitions:
->
-> PUT is defined in Section 9.6 RFC 2616:
->
-> The PUT method requests that the enclosed entity be stored under the supplied Request-URI. If the Request-URI refers to an already existing resource, the enclosed entity SHOULD be considered as a modified version of the one residing on the origin server. If the Request-URI does not point to an existing resource, and that URI is capable of being defined as a new resource by the requesting user agent, the origin server can create the resource with that URI.
->
-> PATCH is defined in RFC 5789:
->
-> The PATCH method requests that a set of changes described in the request entity be applied to the resource identified by the Request- URI.
->
-> Also according to RFC 2616 Section 9.1.2 PUT is Idempotent while PATCH is not.
->
-> Now let us take a look at a real example. When I do POST to /users with the data {username: 'skwee357', email: 'skwee357@domain.example'} and the server is capable of creating a resource, it will respond with 201 and resource location (lets assume /users/1) and any next call to GET /users/1 will return {id: 1, username: 'skwee357', email: 'skwee357@domain.example'}.
->
-> Now let us say I want to modify my email. Email modification is considered "a set of changes" and therefore I should PATCH /users/1 with "patch document". In my case it would be the JSON document: {email: 'skwee357@newdomain.example'}. The server then returns 200 (assuming permission are ok). This brings me to first question:
->
-> PATCH is NOT idempotent. It said so in RFC 2616 and RFC 5789. However if I issue the same PATCH request (with my new email), I will get the same resource state (with my email being modified to the requested value). Why is PATCH not then idempotent?
+< Use of PUT vs PATCH methods in REST API real life scenarios
+
+ First of all, some definitions:
+
+ PUT is defined in Section 9.6 RFC 2616:
+
+ The PUT method requests that the enclosed entity be stored under the supplied Request-URI. If the Request-URI refers to an already existing resource, the enclosed entity SHOULD be considered as a modified version of the one residing on the origin server. If the Request-URI does not point to an existing resource, and that URI is capable of being defined as a new resource by the requesting user agent, the origin server can create the resource with that URI.
+
+ PATCH is defined in RFC 5789:
+
+ The PATCH method requests that a set of changes described in the request entity be applied to the resource identified by the Request- URI.
+
+ Also according to RFC 2616 Section 9.1.2 PUT is Idempotent while PATCH is not.
+
+ Now let us take a look at a real example. When I do POST to /users with the data {username: 'skwee357', email: 'skwee357@domain.example'} and the server is capable of creating a resource, it will respond with 201 and resource location (lets assume /users/1) and any next call to GET /users/1 will return {id: 1, username: 'skwee357', email: 'skwee357@domain.example'}.
+
+ Now let us say I want to modify my email. Email modification is considered "a set of changes" and therefore I should PATCH /users/1 with "patch document". In my case it would be the JSON document: {email: 'skwee357@newdomain.example'}. The server then returns 200 (assuming permission are ok). This brings me to first question:
+
+ PATCH is NOT idempotent. It said so in RFC 2616 and RFC 5789. However if I issue the same PATCH request (with my new email), I will get the same resource state (with my email being modified to the requested value). Why is PATCH not then idempotent?
 PATCH is a relatively new verb (RFC introduced in March 2010), and it comes to solve the problem of "patching" or modifying a set of fields. Before PATCH was introduced, everybody used PUT to update resources. But after PATCH was introduced, it leaves me confused about what PUT is used for. And this brings me to my second (and the main) question:
->
-> What is the real difference between PUT and PATCH? I have read somewhere that PUT might be used to replace entire entity under specific resource, so one should send the full entity (instead of set of attributes as with PATCH). What is the real practical usage for such case? When would you like to replace / overwrite an entity at a specific resource URI and why is such an operation not considered updating / patching the entity? The only practical use case I see for PUT is issuing a PUT on a collection, i.e. /users to replace the entire collection. Issuing PUT on a specific entity makes no sense after PATCH was introduced. Am I wrong?**
+
+ What is the real difference between PUT and PATCH? I have read somewhere that PUT might be used to replace entire entity under specific resource, so one should send the full entity (instead of set of attributes as with PATCH). What is the real practical usage for such case? When would you like to replace / overwrite an entity at a specific resource URI and why is such an operation not considered updating / patching the entity? The only practical use case I see for PUT is issuing a PUT on a collection, i.e. /users to replace the entire collection. Issuing PUT on a specific entity makes no sense after PATCH was introduced. Am I wrong? >
 
 ________________________________________________________________________________________________________
 
