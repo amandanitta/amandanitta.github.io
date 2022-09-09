@@ -33,8 +33,9 @@ By asking smart questions, it demonstrates the individual’s work and effort an
 
 ________________________________________________________________________________________________________
 ```
-Use of PUT vs PATCH methods in REST API real life scenarios
+Title: Use of PUT vs PATCH methods in REST API real life scenarios
 
+Question:
  First of all, some definitions:
 
  PUT is defined in Section 9.6 RFC 2616:
