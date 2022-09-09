@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Brain-workout.jpeg">
 
-*Smart Questions assist in understandings*
+*Smart Questions assist in understandings and development of knowledge*
 
 ## What are Smart Questions?
 
