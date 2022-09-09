@@ -32,11 +32,7 @@ Once everything was completed, I helped review the video before going live and s
 
 During this process, I ensured that the project was kept on track, and more importantly it taught me the importance of time management, organization and having a calendar of dates set out to ensure everything was completed to the best quality that could be produced. 
 
-<div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/watch?v=wAMbctKWp7A" 
-          title="Overview of Hackystat" 
-          allowfullscreen>
-  </iframe>
-</div>
+[YouTube Link](https://www.youtube.com/watch?v=wAMbctKWp7A) 
+  
 
 
