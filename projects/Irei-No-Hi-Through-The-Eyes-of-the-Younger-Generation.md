@@ -32,7 +32,7 @@ Once everything was completed, I helped review the video before going live and s
 
 During this process, I ensured that the project was kept on track, and more importantly it taught me the importance of time management, organization and having a calendar of dates set out to ensure everything was completed to the best quality that could be produced. 
 
-[YouTube Link to Irei No Hi Through The Eyes Of The Younger Generation](https://www.youtube.com/watch?v=wAMbctKWp7A) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAMbctKWp7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 
 
