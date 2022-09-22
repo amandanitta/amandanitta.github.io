@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/teamwork.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/collaboration.png">
 
 *Collaboration between individuals allow for dreams to come true*
 
