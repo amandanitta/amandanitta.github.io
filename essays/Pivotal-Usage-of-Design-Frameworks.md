@@ -33,6 +33,6 @@ If all the webpages were built exclusively using raw HyperText Markup Language (
 
 If all the webpages were built exclusively using raw HyperText Markup Language (HTML) and CSS, this would lead to individuals formatting single elements multiple times and attempting to make every element align nicely with each other, while in UI frameworks it could simply be done by a class. Raw HTML and CSS also do not create functional websites with ease with dropdowns or navbars and are harder to make aesthetically pleasing to the consumer. Using the HTML and CSS in exclusivity leads to  increased difficulty in the implementation of design of pages while also being more mind draining in attempting to make it user friendly. 
 
-## Once Learn Fundamentals, Makes Life Easier 
+## Learn Fundamentals, Makes Life Easier 
 
 Despite UI frameworks having a tremendous learning curve that is similar to learning a new programming language, It allows individuals when they are relatively competent in the understanding of the different classes to be more capable of implementing websites that are user friendly, aesthetically pleasing, and uniformly formatted with ease. These frameworks allow for the creation of websites to be more tailored towards appeasing the general public. Without the usage of the UI frameworks, it would lead individuals to spend a lot more time on the formatting and be a lot more frustrated. Thus, the UI frameworks although tremendously difficult allows for immense satisfaction in the end with implementing things with ease. 
