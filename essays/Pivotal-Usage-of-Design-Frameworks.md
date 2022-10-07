@@ -26,7 +26,7 @@ In the experience of learning and using Bootstrap 5, it was immensely difficult 
 
 <img width="200px" class="rounded float-start pe-4" src="../img/UI-Frameworks.jpeg">
 
-## Once Learn Fundamentals, Makes Life Easier 
+## Learn Fundamentals, Makes Life Easier 
 
 However, when looking at the website as it was being built with the frameworks frustration increased. It was very interesting to see how these classes in the UI framework were able to serve as a foundation to making the page seamlessly uniform where not much thinking was required to write the CSS file. The UI framework allowed ease in formatting and allowed for things to be centered and within the requirements of expectations when the correct class was used for the right element. Thus, despite there being a tremendous amount of stress and a learning curve behind the application and using of the bootstrap 5 UI framework, in the end, it saves hours of frustration in uniformly formatting and less lines of code/ words to make the pages. 
 If all the webpages were built exclusively using raw HyperText Markup Language (HTML) and CSS, this would lead to individuals formatting single elements multiple times and attempting to make every element align nicely with each other, while in UI frameworks it could simply be done by a class. Raw HTML and CSS also do not create functional websites with ease with dropdowns or navbars and are harder to make aesthetically pleasing to the consumer. Using the HTML and CSS in exclusivity leads to  increased difficulty in the implementation of design of pages while also being more mind draining in attempting to make it user friendly. 
@@ -34,6 +34,6 @@ If all the webpages were built exclusively using raw HyperText Markup Language (
 
 If all the webpages were built exclusively using raw HyperText Markup Language (HTML) and CSS, this would lead to individuals formatting single elements multiple times and attempting to make every element align nicely with each other, while in UI frameworks it could simply be done by a class. Raw HTML and CSS also do not create functional websites with ease with dropdowns or navbars and are harder to make aesthetically pleasing to the consumer. Using the HTML and CSS in exclusivity leads to  increased difficulty in the implementation of design of pages while also being more mind draining in attempting to make it user friendly. 
 
-## Learn Fundamentals, Makes Life Easier 
+## UI Frameworks are Pivotal 
 
 Despite UI frameworks having a tremendous learning curve that is similar to learning a new programming language, It allows individuals when they are relatively competent in the understanding of the different classes to be more capable of implementing websites that are user friendly, aesthetically pleasing, and uniformly formatted with ease. These frameworks allow for the creation of websites to be more tailored towards appeasing the general public. Without the usage of the UI frameworks, it would lead individuals to spend a lot more time on the formatting and be a lot more frustrated. Thus, the UI frameworks although tremendously difficult allows for immense satisfaction in the end with implementing things with ease. 
