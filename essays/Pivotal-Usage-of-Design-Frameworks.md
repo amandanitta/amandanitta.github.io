@@ -10,7 +10,7 @@ labels:
   - Web Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/fundamentals.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Fundamentals.jpeg">
 
 *Learning something pays off in the end*
 
