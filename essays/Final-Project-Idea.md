@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Team: Team: Derek Nishimura, Amanda Nitta, Connor Sonoda, Keaton Wong
+Team: Derek Nishimura, Amanda Nitta, Connor Sonoda, Keaton Wong
 
 *How to give back to the University of Hawaii community*
 
