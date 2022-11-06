@@ -28,11 +28,11 @@ To individualize each user’s experience, there will be an “Interests” page
 In this project, we are currently planning to make pages for the Computer Science department and in the future we plan to branch out to other programs in the College of Natural Sciences and the other colleges that make up the University of Hawaii campus.
 
 ## Case Ideas
-    - User either logs in or takes a general virtual tour of the campus
-    - If they take a virtual tour, at the end, the user is prompted to select different interests and create a profile (optional)
-    - If the user logs in, they are taken to a my interests page in which they can add or remove interests
-    - Admin: Department admins can login and update information about their department’s related interests
+* User either logs in or takes a general virtual tour of the campus
+* If they take a virtual tour, at the end, the user is prompted to select different interests and create a profile (optional)
+* If the user logs in, they are taken to a my interests page in which they can add or remove interests
+* Admin: Department admins can login and update information about their department’s related interests
 
 ## Beyond the Basics
 
-There will also be a system for students to request in-person tours along with a feature to see other information that may be of interest to them such as nearby beaches, accommodations, financial information, scholarships and other student life opportunities. Something else that we would try implementing would be having a tour for current students so they are able to know how to get to their classes (eg. classroom HF 3L). 
+There will also be a system for students to request in-person tours along with a feature to see other information that may be of interest to them such as nearby beaches, accommodations, financial information, scholarships and other student life opportunities. Something else that we would try implementing would be having a tour for current students so they are able to know how to get to their classes (eg. classroom HL 3F). 
