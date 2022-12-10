@@ -26,7 +26,7 @@ In all things that are executed, done, or completed, there are always life lesso
 
 When learning about software development through a systematic engineering approach known as software engineering with an emphasis on web application development, there are broader concepts that can be appropriated towards other utilizations. These skill sets are valuable in collaborating and ensuring a process is maintained as collaborators join or transition onto the team to continue processes. By having the base knowledge of these processes such as Agile Project Management, Configuration Management and Ethics in Software Engineering, it assists in getting an idea of what is needed to ensure that there is consistency and understanding of what aspects need to be considered. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/breaking-down-pieces.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/breaking-down-pieces.png">
 
 ## Breaking down overarching ideas into pieces  
 
