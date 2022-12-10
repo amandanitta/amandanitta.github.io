@@ -20,7 +20,7 @@ labels:
 
 In all things that are executed, done, or completed, there are always life lessons or lessons learned that can be applied to other cases and serve as a life lesson. Without learning through experience or research, it leads to an individual to not be equipped with knowledge of precedent on a way things should be conducted or without the knowledge of mistakes that happened in the past and how to aid in avoiding such occurrences. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/learning.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/toolset.png">
 
 ## Software Engineering part of a tool set
 
