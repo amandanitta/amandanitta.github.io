@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/collaboration.png">
 
-*We live and we learn*
+*We live and We learn*
 
 ## Learning can be applied everywhere
 
