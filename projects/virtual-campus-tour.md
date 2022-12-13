@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/University-of-Hawaii.jpeg
+image: img/virtual-campus-tour-logo.jpeg
 title: "Virtual Campus Tour"
 date: 2022
 published: true
