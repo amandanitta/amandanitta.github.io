@@ -9,7 +9,7 @@ labels:
   - Publication
 summary: "As of Fall 2022, the University of Hawaii at Manoa (UHM), had a virtual campus tour comprised of YouTube videos along with a third-party application that describes the buildings. By the UHM having a tour, it allows for the university to be more accessible to out-of-state and neighboring island residents who are not able to visit campus. Therefore, my team and I created a virtual campus tour with the idea of being 'for students by students.’"
 ---
-<img class="img-fluid" src="../img/virtual-campus-tour-logo.jpeg">
+<img class="img-fluid" width="400px" src="../img/virtual-campus-tour-logo.jpeg">
 
 During my first semester of college, I was assigned to write a Literature Review for my Introduction to Research class (HON 101). For my paper I had chosen to research and write about how Technology Affects Compassion. By growing up in the Okinawan community it has allowed me to talk and interact with people of different generations and different backgrounds. Therefore, it allowed me to notice the difference in generations and how they behave and exhibit compassion which could be attributed to the introduction of technology. 
 
