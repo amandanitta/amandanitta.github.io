@@ -2,20 +2,12 @@
 layout: project
 type: project
 image: img/University-of-Hawaii.jpeg
-title: "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents"
+title: "Virtual Campus Tour"
 date: 2022
 published: true
 labels:
   - Publication
-summary: "Technology is becoming increasingly prevalent in society, where especially in recent times,
-the majority of tasks, meetings, and schooling are essentially carried out through online
-formats. This article aims to address the negative and positive effects that technology
-introduces and how it has become common in our society. The findings were analyzed
-through the analysis of literature. These studies are able to show how technology has
-brought about convenience but also has impacted the development of interpersonal and
-intrapersonal characteristics with particular emphasis on compassion and empathy. The
-studies analyzed were mainly based within the European Union, but can be further
-applied to other societies and the world."
+summary: "As of Fall 2022, the University of Hawaii at Manoa (UHM), had a virtual campus tour comprised of YouTube videos along with a third-party application that describes the buildings. By the UHM having a tour, it allows for the university to be more accessible to out-of-state and neighboring island residents who are not able to visit campus. Therefore, my team and I created a virtual campus tour with the idea of being 'for students by students.’"
 ---
 <img class="img-fluid" src="../img/virtual-campus-tour-logo.jpeg">
 
