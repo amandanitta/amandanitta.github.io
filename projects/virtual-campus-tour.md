@@ -6,15 +6,35 @@ title: "Virtual Campus Tour"
 date: 2022
 published: true
 labels:
-  - Publication
+  - Web Development
 summary: "As of Fall 2022, the University of Hawaii at Manoa (UHM), had a virtual campus tour comprised of YouTube videos along with a third-party application that describes the buildings. By the UHM having a tour, it allows for the university to be more accessible to out-of-state and neighboring island residents who are not able to visit campus. Therefore, my team and I created a virtual campus tour with the idea of being 'for students by students.’"
 ---
-<img class="img-fluid" width="400px" src="../img/virtual-campus-tour-logo.jpeg">
+<lass="img-fluid" width="400px" src="../img/virtual-campus-tour-logo.png">
 
-During my first semester of college, I was assigned to write a Literature Review for my Introduction to Research class (HON 101). For my paper I had chosen to research and write about how Technology Affects Compassion. By growing up in the Okinawan community it has allowed me to talk and interact with people of different generations and different backgrounds. Therefore, it allowed me to notice the difference in generations and how they behave and exhibit compassion which could be attributed to the introduction of technology. 
+[Link to Project Page](https://virtual-campus-tour.github.io/)
 
-Furthermore, upon completion of this class I was encouraged to publish my piece in the Horizon’s Undergraduate Journal at the University of Hawaii at Manoa by my Professor Dr. Jayme Scally. This led me to revise my literature review to make it more encompassing of the different perspectives of how technology has affected the development of compassion. Through this process I learned that although I may have an opinion, it is important to bring out both sides of the argument and analyze them equally and effectively to let the reader choose. Also I learned the importance of explaining the context of when the piece was written, since the presence of COVID-19 led for the research of the piece to be relevant since the majority of people were participating, doing things online and continuing to mitigate the spread of the virus. I also learned the importance of readability, for the audience to be able to read the material no matter what backgrounds. 
+# Why a virtual campus tour for the University of Hawaii at Manoa
 
-Through this first publication, I was able to learn the importance of the publication process and the process of ensuring that all relevant information behind the topic is covered, to bring more credibility behind the piece. 
+The University of Hawaii at Manoa (UHM) has undergraduate and graduate degree programs. There are over 13,000 students who apply to attend the university each year, composed of students who are based on Oahu - where the university is located - along with outer island residents and mainland/international students. These students want to determine whether UHM is the best fit for their college experience and the way they do that is by visiting the campus in-person.
 
-[Direct Link to Publication](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content)
+As of Fall 2022, UHM only has a YouTube video and a third party service that highlights buildings on campus that acts as the virtual campus tour. Since Hawaii is located far away from most other major colleges, prospective students have to make a choice to either visit locally situated colleges, or fly out to UHM to take an in-person tour of our campus. Thus, it would benefit UHM to create a virtual campus tour that provides more information about the college experience at UHM. As a team we decided that we wanted to wanted to make this tour based on the idea of it being ‘for students by students.’
+
+<img class="rounded float-start pe-4" width="400px" src="../img/virtual-campus-tour-homepage.png">
+
+In this project, my team and I developed several pages that encompassed the University of Hawaii at Manoa campus from the students life, athletics, academics, study areas and research with an emphasis on the Computer Science Department. Each of the pages that we created incorporated links to other University of Hawaii at Manoa pages. As a team, we plan to continue this project in the future to make it encompass the whole campus/ University of Hawaii system.
+
+### What were my contributions
+
+My contributions to this project consisted of creating issues, updating the project board & project pages, merging branches, facilitating conversations/ meetings on direction of project, and developing pages. Along with also revising the content on pages such as the general page. 
+
+The pages that I directly contributed to in the development process were the study areas, campus center, athletics,  Pacific Ocean Science and Technology building page, the end of tour page, list clubs, add club and edit club pages. These pages assist users in becoming familiar with the University of Hawaii at Manoa campus.
+
+[Link to GitHub repository](https://github.com/virtual-campus-tour/virtual-campus-tour)
+
+### What I learned from this experience
+
+From this experience, I learned the importance of the application design where creativity determines the quality of th piece of work. Where generally, there are ideas being discussed, but the implementation by a person and their creativity determines how it transverses to be quality. By having collaboration an idea it allows for there to be transversal of expectations. I also learned the importance of having agile project management and the breaking of tasks into smaller pieces so that people are more inclined to work on it in a timely manner. 
+
+I have also learned the importance of the application of concepts learned in class such as issue naming conventions, coding standards, and agile project management that allowed my team and I to succeed in creating our "beta project" Without the fundamental background of these ideas, it would of been more difficult to organize a project and continuously integrate our ideas and to creat the more effective and efficient collaboration.
+
+[Direct Link to Deployment/ website application](https://uh-virtual-campus-tour.xyz/)
