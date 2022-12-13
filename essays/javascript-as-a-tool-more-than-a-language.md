@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript As a Tool More Than a Language"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-30
-published: true
+published: false
 labels:
   - JavaScript
   - Athletic Software Engineering
