@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "Amanda Nitta",
+    "label": "Student",
+    "picture": "https://github.com/amandanitta.png",
+    "email": "nittaak@hawaii.edu",
+    "website": "https://amandanitta.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "amandanitta", "url": "http://github.com/amandanitta" },
+      { "network": "linkedin", "username": "amandanitta", "url": "http://linkedin.com/in/amandanitta" }
+    ]
+  },
+  "interests": [
+    { "name": "Data Science" },
+    { "name": "Cybersecurity" },
+    { "name": "Data Visualization" },
+    { "name": "Software Engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Horizons: A Journal of Undergraduate Research, Creative Work, and innovation at the University of Hawaii at Manoa",
+      "position": "Student Editorial Board",
+      "website": "",
+      "startDate": "2021-01",
+      "endDate": "2022-05",
+      "summary": "Reviewed and provided constructive criticism for ways to improve pieces before publication, along with providing an opinion to the editor about the viability of the piece",
+      "highlights": [
+        "Reviewed various pieces of different disciplines and provided feedback on whether it was universally readable",
+        "Gained insight on the publication process", "Learned various writing conventions and how they can differ between different disciplines"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Learning Assistant",
+      "website": "",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
+      "summary": "Teach and help students develop an understanding of Calculus 2 concepts along with the application to real world scenarios. Facilitated assistance through helping in recitation sessions that help to bring a deeper understanding of materials presented in the lecture class along with hosting Office Hours (additional contact hours) using effective communication skills to present information clearly in a succinct and easy-to-understand manner.",
+      "highlights": [
+        "Helped provide insight into calculus 2 concepts that helped to bring a further and deeper understanding of material"
+      ]
+    },
+    
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Curriculum Developer of Computer Science for K - 12",
+      "website": "",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
+      "summary": "In Hawaii, the computer science proficiency in our secondary schools is falling behind the national average/ proficiency. Therefore, I worked in a team of 5 to create/ develop a curriculum to help bring the computer science competency in Hawaii to the national standard. The curriculum developed had aids of real world examples to help with memory retention and to understand application of computer science principles. Computer science principles that I had created curriculum on, were for bootstrapping a computer, binary numbers, loops, data wrangling, origins of the internet/ computer science, data types, programming basics/ essentials, sorting and searching and the responsibility of a computer scientist. While creating the curriculum, I was fortunate to teach at a local middle school. The curriculum that was developed will be used to teach primarily middle school students for years to come.",
+      "highlights": [
+        "Curriculum developed will continue to be used for future years to come","Explaining the importance of concepts behind computer science so that younger students are able to get an understanding to further apply it in their futures"
+      ]
+    }
+    
+  ],
+  "volunteer": [
+    {
+      "organization": "Hawaii United Okinawa Association",
+      "website": "http://www.okinawanfestival.com/",
+      "position": "WebApp developer",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "summary": "The Okinawan Festival is the largest ethnic festival in the state of Hawaii. For the website the tasks were to gather information from the various committees so that the public is able to gain insight into what to expect from the festival along with helping to design pages to make them the most functional for attendees. The information gathered included parking information, admission, schedule of events, program, booths and etc.",
+      "highlights": [
+        "Gained insight into how to present information in a readable format for the attendees",
+        "Understanding the broader applications of putting information on the website.",
+        "Statistics (2022) : 64,984 views for the month leading up to festival; 25,113 views Saturday of festival, 8,810 views on Sunday"
+      ]
+    },
+     {
+      "organization": "Hawaii Okinawa Creative Arts",
+      "website": "",
+      "position": "Junior Leader",
+      "startDate": "2011-05",
+      "endDate": "Present",
+      "summary": "Preserve and perpetuate the Okinawan culture with an emphasis on the performing arts including Okinawan Lion (Shishimai) and dance, along with serving as a mentor and role model to younger members that are interested in learning about and participating in the Okinawan culture/ performing arts",
+      "highlights": [
+        "Learning about the importance of passing down information and insight to the younger generations",
+        "Developed a flexible mindset that adapts to sudden change"
+      ]
+    },
+    
+    {
+      "organization": "Hawaii United Okinawa Association",
+      "website": "",
+      "position": "Irei No Hi Co-Chairperson",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-21",
+      "summary": "Irei No Hi is known as Okinawa's Memorial day that serves as a day in Okinawa to pay tribute to the hardships and lives lost during the Battle of Okinawa in World War II. I volunteered and co-chaired the production of a video of about 2 hours for the Hawaii United OKinawa Association's tribute. This tribute is usually put on by 40-50 year olds, however I co-led a team of 6 college-aged individuals in creating this tribute. The video has over two thousand views on Facebook and Youtube combined and is being shown to university/ high school students in Okinawa by their teachers. This video serves as an example/ role model to the Okinawan community that although being generations from immigration and as college students engrossed in other activities, we still care about preserving and perpetuating the culture. My team and I conducted interviews and research along with breaking down the civilian stories to make it relevant to our generation and why it's important to continue to remember these experiences and the importance of peace. Read more on my personal experience.",
+      "highlights": [
+        "Gained communication skills, application of ethics and serving for something greater than myself."
+      ]
+    },
+    
+    
+     {
+      "organization": "",
+      "website": "",
+      "position": "Hawaii Okinawa Ancestral Clubs",
+      "startDate": "2001",
+      "endDate": "Present",
+      "summary": "", 
+      "highlights": [
+        "Member, Chatan Kadena Chojin Kai",
+        "Member, Ishikawa Sonjin Kai", 
+        "Member, Hui Makaala"
+      ]
+    },
+    
+    
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Vice-President & Chief of Operations, Association for Computing Machinery at the University of Hawaii at Manoa, 2022-Present",
+        "Vice-Chairperson, Grey Hats at UHM, 2022-Present",
+        "Marketing Director, ICSpark, UH Manoa, 2022-Present"
+      ]
+    }
+    
+  ],
+  "awards": [
+    {
+      "title": "Brandeis University Book Award",
+      "date": "2019",
+      "awarder": "Henry J. Kaiser High School",
+      "summary": "Awarded to a Junior in the top 10% of their class and demonstrates a commitment to civic engagement, community service, political activism, social justice, or volunteer work."
+    },
+    {
+      "title": "Second Degree Black Belt",
+      "date": "2017",
+      "awarder": "Grandmaster Hee Il Cho's Tae Kwon Do Center",
+      "summary": "Awarded upon completion of testing for the second degree black belt. The testing process included demonstration of sets of different techniques followed by memory recitation of multiple passages that range from definition of patterns from white belt to black belt, along with describing morals and understanding of the role of a martial artist. Throughout my journey I have been able to learn valuable life lessons that stem from the principles of modesty, courtesy, integrity, self control, perseverance and indomitable spirit. "
+    }, 
+    {
+      "title": "International Baccalaureate Diploma",
+      "date": "2020",
+      "awarder": "International Baccalaureate Program at Henry J. Kaiser High School",
+      "summary": "A two (2) year college rigorous intensive curriculum that comprises 7 different courses that allow for interdisciplinary understanding of topics while also becoming more globally minded. All concepts are taught with the foundation of application to real world current examples. It allows for students to be globally minded and culturally aware of the different regions/ parts of the world. The diploma is awarded to students upon completion of the program that is defined based on completion of various research intensive essays, projects, community service and series of tests (tests were not given during 2020 due to COVID). Through the curriculum it allows students to be framed in a more balanced lifestyle through multiple avenues."
+    },
+    
+    {
+      "title": "Most Industrious in Class Leadership",
+      "date": "2017,2018",
+      "awarder": "Henry J. Kaiser High School",
+      "summary": "Awarded to the student who demonstrates the most diligent and hardworking characteristics amongst students in class leadership."
+    },
+    
+    
+  ],
+  
+  "publications": [ 
+    { "name" : "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents",
+     "type": "journal",
+                   "publisher": "Horizons: A Journal of Undergraduate Research, Creative Work, and innovation at the University of Hawaii at Manoa", 
+                    "release date": "2021-12-07",
+                    "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content", 
+                     "summary": "Technology is becoming increasingly prevalent in society, where especially in recent times, virtually the majority of tasks, meetings, and schooling are carried out through online formats. This piece aims to address the negative and positive effects that technology introduces and is increasingly prevalent in our society. These findings were analyzed through the analysis of literature. These studies are able to show how technology has brought about convenience but also has impacted the development of interpersonal and intrapersonal characteristics with particular emphasis on compassion and empathy. The studies analyzed were mainly based within the European Union, but can be further applied to other societies and the world. \n Link to publication: https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content"
+                    
+                    }], 
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
