@@ -241,6 +241,7 @@ layout: home
               <b>{{ entry.title }}</b>, {{ entry.awarder }}
             </p>
             <p class="mb-0">{{ entry.summary }}</p>
+            <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
           </div>
           <div class="col-3">
             <p class="m-0 text-end">
