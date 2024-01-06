@@ -50,6 +50,21 @@
   ],
   "work": [
     {
+      "company": "University of Hawaii at Manoa",
+      "position": "Undergraduate Researcher",
+      "website": "",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "Analyzed plant data across genotypes, climates and years to determine how there are differences in plant growth through using data science methodologies",
+      "highlights": [
+        "Understand the importance of place-based learning, data driven paradigms and how it contributes to effective research through visiting various farms across Oahu",
+        "Collaborated amongst biology and computer science undergraduates",
+        "Learned the importance of understanding domain knowledge to bring out nuances to reach conclusions",
+        "Refined visualization and data science skills through using R",
+        "Methodogies used: Decision Trees, Regression Models, Density Plots, Analysis of Variance"
+      ]
+    },
+    {
       "company": "Horizons: A Journal of Undergraduate Research, Creative Work, and innovation at the University of Hawaii at Manoa",
       "position": "Student Editorial Board",
       "website": "",
