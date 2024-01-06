@@ -51,6 +51,21 @@
   "work": [
     {
       "company": "University of Hawaii at Manoa",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2023-07",
+      "endDate": "Present",
+      "summary": "Led a local team of undergraduates and collaborated with a team in the continential United States in advanced research and development groups for Software Supply Chain Security with an emphasis on Software Bills of Materials (SBOM)",
+      "highlights": [
+        "Ensured that the software was developed within purpose",
+        "Assisted in diagnosing/ finding solutions for build issues and operating systems compatibilities, along with the development of features/enhancements",
+        "Conducted Quality Assurance tests on the software",
+        "Developed materials/documentation to focus on the functionality of the software, while also ensuring it remained user/audience-centered.",
+        "Wrote detailed reports summarizing the capabilities of the software for government sponsors"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
       "position": "Undergraduate Researcher",
       "website": "",
       "startDate": "2023-06",
