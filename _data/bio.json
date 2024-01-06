@@ -150,7 +150,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Vice-President & Chief of Operations, Association for Computing Machinery at the University of Hawaii at Manoa, 2022-2023",
+        "Vice-President & Chief of Operations, Association for Computing Machinery Student Chapter at the University of Hawaii at Manoa, 2022-2023",
         "Vice-Chairperson, Grey Hats at UHM, 2022-2023",
         "Marketing Director, ICSpark, UH Manoa, 2022-2023"
       ]
@@ -159,29 +159,47 @@
   ],
   "awards": [
     {
-      "title": "Brandeis University Book Award",
-      "date": "2019",
-      "awarder": "Henry J. Kaiser High School",
-      "summary": "Awarded to a Junior in the top 10% of their class and demonstrates a commitment to civic engagement, community service, political activism, social justice, or volunteer work."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "Second Degree Black Belt",
-      "date": "2017",
-      "awarder": "Grandmaster Hee Il Cho's Tae Kwon Do Center",
-      "summary": "Awarded upon completion of testing for the second degree black belt. The testing process included demonstration of sets of different techniques followed by memory recitation of multiple passages that range from definition of patterns from white belt to black belt, along with describing morals and understanding of the role of a martial artist. Throughout my journey I have been able to learn valuable life lessons that stem from the principles of modesty, courtesy, integrity, self control, perseverance and indomitable spirit. "
-    }, 
+      "title": "College of Natural Sciences Student Spotlight",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The College of Natural Sciences Student Spotlight serves to recognize students and highlight their achievements and experiences, while also empowering the student population to engage with the University of Hawaiʻi at Mānoa community.",
+      "link": "https://natsci.manoa.hawaii.edu/sasc/current-student-spotlight/"
+    },
     {
       "title": "International Baccalaureate Diploma",
       "date": "2020",
       "awarder": "International Baccalaureate Program at Henry J. Kaiser High School",
       "summary": "A two (2) year college rigorous intensive curriculum that comprises 7 different courses that allow for interdisciplinary understanding of topics while also becoming more globally minded. All concepts are taught with the foundation of application to real world current examples. It allows for students to be globally minded and culturally aware of the different regions/ parts of the world. The diploma is awarded to students upon completion of the program that is defined based on completion of various research intensive essays, projects, community service and series of tests (tests were not given during 2020 due to COVID). Through the curriculum it allows students to be framed in a more balanced lifestyle through multiple avenues."
     },
-    
+    {
+      "title": "Advancement Via Individual Determination (AVID) Embodiment Award",
+      "date": "2017,2020",
+      "awarder": "Henry J. Kaiser High School",
+      "summary": "Awarded to an individual who exemplifies the principles of the AVID program of being prepared for College through note-taking, time management, organization, and proactiveness."
+    },
+    {
+      "title": "Brandeis University Book Award",
+      "date": "2019",
+      "awarder": "Henry J. Kaiser High School",
+      "summary": "Awarded to a Junior in the top 10% of their class and demonstrates a commitment to civic engagement, community service, political activism, social justice, or volunteer work."
+    },
     {
       "title": "Most Industrious in Class Leadership",
       "date": "2017,2018",
       "awarder": "Henry J. Kaiser High School",
       "summary": "Awarded to the student who demonstrates the most diligent and hardworking characteristics amongst students in class leadership."
+    },
+    {
+      "title": "Second Degree Black Belt",
+      "date": "2017",
+      "awarder": "Grandmaster Hee Il Cho's Tae Kwon Do Center",
+      "summary": "Awarded upon completion of testing for the second degree black belt. The testing process included demonstration of sets of different techniques followed by memory recitation of multiple passages that range from definition of patterns from white belt to black belt, along with describing morals and understanding of the role of a martial artist. Throughout my journey I have been able to learn valuable life lessons that stem from the principles of modesty, courtesy, integrity, self control, perseverance and indomitable spirit. "
     }
     
   ],
