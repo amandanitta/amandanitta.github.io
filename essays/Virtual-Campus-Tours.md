@@ -1,19 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards As A Foundation"
+title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-21
+date: 2022-11-01
 published: false
 labels:
-  - Coding Standards
+  - Software Engineering
+  - Meteor
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/collaboration.png">
 
-*Collaboration between individuals allow for dreams to come true*
+*How to give back to the University of Hawaii community*
 
-## Collaboration is indispensable  
+## Want to make UH more appealing 
 
 In projects, individuals often collaborate in the development of projects. In order for these projects to succeed it is crucial that everyone is able to proceed under a similar standard, expectation and goal, so that if an individual is not able to fulfill their responsibilities there are minimal problems or learning curves in the transition. Furthermore, in coding and the computer science field specifically, it is important for people to adhere to similar coding standards to ensure readability and the continuation of the project in the future. 
 

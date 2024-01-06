@@ -4,7 +4,7 @@ type: essay
 title: "Life Lessons Through Practices"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-22
-published: true
+published: false
 labels:
   -  Software Engineering
   - Coding Standards
