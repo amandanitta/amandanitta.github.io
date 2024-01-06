@@ -6,26 +6,55 @@
     "email": "amandaknitta@gmail.com",
     "website": "https://amandanitta.github.io",
     "summary": "I am studying for a B.S. and M.S. in Computer Science through a joint-program in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "amandanitta", "url": "http://github.com/amandanitta" },
-      { "network": "linkedin", "username": "amandanitta", "url": "http://linkedin.com/in/amandanitta" }
+      {
+        "network": "github",
+        "username": "amandanitta",
+        "url": "http://github.com/amandanitta"
+      },
+      {
+        "network": "linkedin",
+        "username": "amandanitta",
+        "url": "http://linkedin.com/in/amandanitta"
+      }
     ]
   },
   "interests": [
-    { "name": "Data Science" },
-    { "name": "Cybersecurity" },
-    { "name": "Data Visualization" },
-    { "name": "Software Engineering" }
+    {
+      "name": "Data Science"
+    },
+    {
+      "name": "Cybersecurity"
+    },
+    {
+      "name": "Data Visualization"
+    },
+    {
+      "name": "Software Engineering"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java","Python"]
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Python"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub"]
+      "keywords": [
+        "MacOS",
+        "Git/GitHub"
+      ]
     }
   ],
   "education": [
@@ -35,8 +64,7 @@
       "studyType": "M.S.",
       "startDate": "2023-08-14",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -44,8 +72,7 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -53,8 +80,7 @@
       "studyType": "Minor",
       "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -65,12 +91,12 @@
       "courses": [
         "Biology I + Lab",
         "Biology II + Lab",
+        "Physics I + Lab",
+        "Physics II + Lab",
         "Inorganic Chemistry I + Lab (General Chemistry)",
         "Inorganic Chemistry II + Lab (General Chemistry)",
         "Organic Chemistry I + Lab",
-        "Organic Chemistry II + Lab",
-        "Physics I + Lab", 
-        "Physics II + Lab"
+        "Organic Chemistry II + Lab"
       ]
     }
   ],
@@ -114,7 +140,8 @@
       "summary": "Reviewed and provided constructive criticism for ways to improve pieces before publication, along with providing an opinion to the editor about the viability of the piece",
       "highlights": [
         "Reviewed various pieces of different disciplines and provided feedback on whether it was universally readable",
-        "Gained insight on the publication process", "Learned various writing conventions and how they can differ between different disciplines"
+        "Gained insight on the publication process",
+        "Learned various writing conventions and how they can differ between different disciplines"
       ]
     },
     {
@@ -128,7 +155,6 @@
         "Helped provide insight into calculus 2 concepts that helped to bring a further and deeper understanding of material"
       ]
     },
-    
     {
       "company": "University of Hawaii at Manoa",
       "position": "Curriculum Developer of Computer Science for K - 12",
@@ -137,10 +163,10 @@
       "endDate": "2022-06",
       "summary": "In Hawaii, the computer science proficiency in our secondary schools is falling behind the national average/ proficiency. Therefore, I worked in a team of 5 to create/ develop a curriculum to help bring the computer science competency in Hawaii to the national standard. The curriculum developed had aids of real world examples to help with memory retention and to understand application of computer science principles. Computer science principles that I had created curriculum on, were for bootstrapping a computer, binary numbers, loops, data wrangling, origins of the internet/ computer science, data types, programming basics/ essentials, sorting and searching and the responsibility of a computer scientist. While creating the curriculum, I was fortunate to teach at a local middle school. The curriculum that was developed will be used to teach primarily middle school students for years to come.",
       "highlights": [
-        "Curriculum developed will continue to be used for future years to come","Explaining the importance of concepts behind computer science so that younger students are able to get an understanding to further apply it in their futures"
+        "Curriculum developed will continue to be used for future years to come",
+        "Explaining the importance of concepts behind computer science so that younger students are able to get an understanding to further apply it in their futures"
       ]
     }
-    
   ],
   "volunteer": [
     {
@@ -156,7 +182,7 @@
         "Statistics (2022) : 64,984 views for the month leading up to festival; 25,113 views Saturday of festival, 8,810 views on Sunday"
       ]
     },
-     {
+    {
       "organization": "Hawaii Okinawa Creative Arts",
       "website": "",
       "position": "Junior Leader",
@@ -168,7 +194,6 @@
         "Developed a flexible mindset that adapts to sudden change"
       ]
     },
-    
     {
       "organization": "Hawaii United Okinawa Association",
       "website": "",
@@ -180,24 +205,20 @@
         "Gained communication skills, application of ethics and serving for something greater than myself."
       ]
     },
-    
-    
-     {
+    {
       "organization": "Hawaii United Okinawa Association",
       "website": "",
       "position": "Hawaii Okinawa Ancestral Clubs",
       "startDate": "2001",
       "endDate": "Present",
-      "summary": "", 
+      "summary": "",
       "highlights": [
         "Member, Chatan Kadena Chojin Kai",
-        "Member, Ishikawa Sonjin Kai", 
+        "Member, Ishikawa Sonjin Kai",
         "Member, Hui Makaala",
         "Treasurer, Shinka Hawaii"
       ]
     },
-    
-    
     {
       "organization": "",
       "website": "",
@@ -211,7 +232,6 @@
         "Marketing Director, ICSpark at UH Manoa, 2022-2023"
       ]
     }
-    
   ],
   "awards": [
     {
@@ -290,18 +310,17 @@
       "awarder": "Grandmaster Hee Il Cho's Tae Kwon Do Center",
       "summary": "Awarded upon completion of testing for the second degree black belt. The testing process included demonstration of sets of different techniques followed by memory recitation of multiple passages that range from definition of patterns from white belt to black belt, along with describing morals and understanding of the role of a martial artist. Throughout my journey I have been able to learn valuable life lessons that stem from the principles of modesty, courtesy, integrity, self control, perseverance and indomitable spirit. "
     }
-    
   ],
-  
-  "publications": [ 
-    { "name" : "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents",
-     "type": "journal",
-                   "publisher": "Horizons: A Journal of Undergraduate Research, Creative Work, and innovation at the University of Hawaii at Manoa", 
-                    "release date": "2021-12-07",
-                    "website": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content", 
-                     "summary": "Technology is becoming increasingly prevalent in society, where especially in recent times, virtually the majority of tasks, meetings, and schooling are carried out through online formats. This piece aims to address the negative and positive effects that technology introduces and is increasingly prevalent in our society. These findings were analyzed through the analysis of literature. These studies are able to show how technology has brought about convenience but also has impacted the development of interpersonal and intrapersonal characteristics with particular emphasis on compassion and empathy. The studies analyzed were mainly based within the European Union, but can be further applied to other societies and the world."
-                    
-                    }], 
+  "publications": [
+    {
+      "name": "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents",
+      "type": "journal",
+      "publisher": "Horizons: A Journal of Undergraduate Research, Creative Work, and innovation at the University of Hawaii at Manoa",
+      "release date": "2021-12-07",
+      "website": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/64199b68-186c-4230-af7b-9ad44ea89daa/content",
+      "summary": "Technology is becoming increasingly prevalent in society, where especially in recent times, virtually the majority of tasks, meetings, and schooling are carried out through online formats. This piece aims to address the negative and positive effects that technology introduces and is increasingly prevalent in our society. These findings were analyzed through the analysis of literature. These studies are able to show how technology has brought about convenience but also has impacted the development of interpersonal and intrapersonal characteristics with particular emphasis on compassion and empathy. The studies analyzed were mainly based within the European Union, but can be further applied to other societies and the world."
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
