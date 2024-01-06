@@ -46,6 +46,32 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Honors (expected Spring, 2024)",
+      "studyType": "Minor",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Pre-Health (expected Spring, 2024)",
+      "studyType": "Minor",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+        "Biology I + Lab",
+        "Biology II + Lab",
+        "Inorganic Chemistry I + Lab (General Chemistry)",
+        "Inorganic Chemistry II + Lab (General Chemistry)",
+        "Organic Chemistry I + Lab",
+        "Organic Chemistry II + Lab",
+        "Physics I + Lab", 
+        "Physics II + Lab"
+      ]
     }
   ],
   "work": [
