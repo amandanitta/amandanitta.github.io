@@ -18,7 +18,5 @@ This converts receipts through a data pipeline where the paper receipts informat
 
 The findings are displayed through visualizations on a Dashboard.
 
-Team: Jeremiah Dy, Kylie Higashionna, Grayson Levy, Amanda Nitta
-
 projecturl: https://receipt-classification-visualization.streamlit.app/
 ---
