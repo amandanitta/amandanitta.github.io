@@ -4,7 +4,7 @@ type: project
 published: true
 image: img/projects/IreiNoHi2021-Nitta.jpg
 title: Irei No Hi - Through the Eyes of the Younger Generation
-permalink: projects/kipa
+permalink: projects/irei-no-hi
 date: 2021
 labels:
   - Volunteer
