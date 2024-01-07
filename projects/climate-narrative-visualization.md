@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: img/projects/climate-change-narrative.jepg
+image: img/projects/climate-change-narrative.jpeg
 title: Climate Change Through Narrative Visualization
 permalink: projects/climate-change-narrative
 date: 2023
