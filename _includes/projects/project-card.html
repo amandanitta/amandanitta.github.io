@@ -14,6 +14,8 @@
         </p>
         {% if page.projecturl %}
         <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+        {% else if page.repourl %}
+        <a href="{{ page.repourl }}" class="btn btn-outline-dark">Repository</a>
         {% else %}
         <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
         {% endif %}
