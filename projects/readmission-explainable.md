@@ -2,9 +2,9 @@
 layout: project
 type: project
 published: true
-image: img/projects/IreiNoHi2021-Nitta.jpg
+image: img/projects/readmission-explainable.jpeg
 title: Affect of Metformin in Readmission Rates of Diabetes Patients
-permalink: projects/readmission-explainable.jpeg
+permalink: projects/readmission-explainable
 date: 2023
 labels:
   - Explainable AI
