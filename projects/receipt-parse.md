@@ -20,5 +20,5 @@ The findings are displayed through visualizations on a Dashboard.
 
 Team: Jeremiah Dy, Kylie Higashionna, Grayson Levy, Amanda Nitta
 
-projecturl: https://www.youtube.com/watch?v=wAMbctKWp7A
+projecturl: https://receipt-classification-visualization.streamlit.app/
 ---
