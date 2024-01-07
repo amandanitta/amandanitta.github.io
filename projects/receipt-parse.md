@@ -4,7 +4,7 @@ type: project
 published: true
 image: img/projects/receipt-parse.jpeg
 title: Receipt Parse
-permalink: projects/kipa
+permalink: projects/receipt-parse
 date: 2023
 labels:
   - Visualization
