@@ -4,7 +4,7 @@ type: project
 image: img/University-of-Hawaii.jpeg
 title: "An Exploration of the Way Modern Technology Can Influence the Development of Compassion in Adolescents"
 date: 2021
-published: true
+published: false
 labels:
   - Publication
 summary: "Technology is becoming increasingly prevalent in society, where especially in recent times,

@@ -4,7 +4,7 @@ type: project
 image: img/Tae-Kwon-Do.jpg
 title: "Tae Kwon Do Journey"
 date: 2011
-published: true
+published: false
 labels:
   - Martial Arts
 summary: "I have been fortunate to not only learn Martial Arts but learn how to be a Martial Artist. Martial Arts has helped shape me into who I am today."

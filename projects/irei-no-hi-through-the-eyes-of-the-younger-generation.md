@@ -4,7 +4,7 @@ type: project
 image: img/IreiNoHi2021-Nitta.jpg
 title: "Irei No Hi Through The Eyes of the Younger Generation"
 date: 2021
-published: true
+published: false
 labels:
   - Okinawan Activities
   - Giving Back to the community
