@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: img/receipt-parse.jpeg
+image: img/projects/receipt-parse.jpeg
 title: Receipt Parse
 permalink: projects/kipa
 date: 2023
