@@ -17,7 +17,6 @@ intrapersonal characteristics with particular emphasis on compassion and empathy
 studies analyzed were mainly based within the European Union, but can be further
 applied to other societies and the world."
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
