@@ -30,31 +30,6 @@ applied to other societies and the world."
             padding: 0;
             background-color: #f0f0f0;
         }
-        .navbar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 0.5rem 1rem;
-            background-color: #f8f9fa;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        .navbar-brand {
-            font-weight: bold;
-            color: #000;
-            text-decoration: none;
-        }
-        .navbar-nav {
-            list-style: none;
-            display: flex;
-            gap: 1rem;
-        }
-        .nav-link {
-            color: #000;
-            text-decoration: none;
-        }
-        .nav-link:hover {
-            text-decoration: underline;
-        }
         .iframe-container {
             display: flex;
             justify-content: center;
