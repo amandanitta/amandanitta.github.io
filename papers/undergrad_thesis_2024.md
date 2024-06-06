@@ -45,17 +45,6 @@ applied to other societies and the world."
     </style>
 </head>
 <body>
-    <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a>
-            <div class="ms-auto">
-                <ul class="navbar-nav mb-2 mb-lg-0">
-                    <li><a class="nav-link" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a></li>
-                    <li><a class="nav-link" href="{{ '/cv.html' | prepend: site.baseurl }}">CV</a></li>
-                </ul>
-            </div>
-        </div>
-    </header>
     <div class="iframe-container">
         <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/amandanitta/amandanitta.github.io/main/papers/undergrad_thesis/Amanda_Nitta_Undergraduate_Thesis.pdf"></iframe>
     </div>
