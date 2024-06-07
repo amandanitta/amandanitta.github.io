@@ -68,26 +68,26 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science - Data Science (expected Spring, 2024)",
+      "area": "Computer Science - Data Science",
       "studyType": "B.S.",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
+      "startDate": "2020-08-25",
+      "endDate": "2024-05-10",
       "courses": []
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Honors (expected Spring, 2024)",
+      "area": "Honors",
       "studyType": "Minor",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
+      "startDate": "2020-08-25",
+      "endDate": "2024-05-10",
       "courses": []
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Pre-Health (expected Spring, 2024)",
+      "area": "Pre-Health",
       "studyType": "Minor",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
+      "startDate": "2023-06-19",
+      "endDate": "2024-05-10",
       "courses": [
         "Biology I + Lab",
         "Biology II + Lab",
