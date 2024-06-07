@@ -6,4 +6,4 @@ title: "From Aspiration to Realization: A Comparative Study of Salary Expectatio
 date: 2021
 paperurl: https://amandanitta.github.io/papers/undergrad_thesis.html
 ---
-Undergraduate Thesis
+Undergradute Senior Honorʻs Thesis
