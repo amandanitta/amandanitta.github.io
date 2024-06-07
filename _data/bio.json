@@ -106,7 +106,7 @@
       "position": "Software Engineer",
       "website": "",
       "startDate": "2023-07",
-      "endDate": "Present",
+      "endDate": "2024-01",
       "summary": "Led a local team of undergraduates and collaborated with a team in the continential United States in advanced research and development groups for Software Supply Chain Security with an emphasis on Software Bills of Materials (SBOM)",
       "highlights": [
         "Ensured that the software was developed within purpose",
@@ -234,6 +234,19 @@
     }
   ],
   "awards": [
+    {
+      "title": "Outstanding Student Volunteer Award - Best Hospitality",
+      "date": "2024",
+      "awarder": "Association for Computing Machinery - Computer-Human Interaction Conference 2024 (ACM CHI 2024)",
+      "summary": "Over 100 student volunteers from around the world were selected to assist with various duties at the conference, widely considered the most prestigious in the computer science field of human-computer interaction (HCI), and was held in Hawaii in 2024. I was honored with the Best Hospitality."
+    },
+    {
+      "title": "Honorable Mention",
+      "date": "2024",
+      "awarder": "National Science Foundation Graduate Research Fellowship Program (NSF GRFP)",
+      "summary": "The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. As the oldest graduate fellowship of its kind, the GRFP has a long history of selecting recipients who achieve high levels of success in their future academic and professional careers.  There are over 12,000 students who apply annually, where about 2,000 receive awards and 1,500 receive honorable mentions. Applications were reviewed according to NSF's Merit Criteria for Intellectual Merit and Broader Impacts. An honorable mention is considered to be a significant achievement.",
+      "website": "https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList"
+    },
     {
       "title": "Uchinanchu of the Year",
       "date": "2023",
